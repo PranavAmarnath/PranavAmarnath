@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on different small projects under the "Secres" brand.
 - 🌱 I’m currently learning Android (Mobile)
-- 💬 Ask me about Java (General), AWT/Swing/JavaFX (Desktop), Vaadin Flow (Web)
+- 💬 Ask me about Java, AWT/Swing/JavaFX (Desktop), Vaadin Flow (Web)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have no idea when/where I came up with the "Secres" brand, but I've used it ever since. It is not an acronym.
 
