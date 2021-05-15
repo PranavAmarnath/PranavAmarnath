@@ -1,8 +1,8 @@
 ### Hi there 👋. You may be able to tell from my username; I'm Pranav Amarnath.
 
-- 🔭I’m currently working on different small projects under the "Secres" brand.
-- 🌱 I’m currently learning Android (Mobile)
-- 💬 Ask me about Java, AWT/Swing/JavaFX (Desktop), Vaadin Flow (Web)
+- 🔭 I’m currently working on projects under the "Secres" brand.
+- 🌱 I’m currently learning Android (Mobile) and Embedded.
+- 💬 Ask me about Java, AWT/Swing/JavaFX (Desktop), Vaadin Flow/Spring Boot (Web).
 
 <!--
 [![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavAmarnath&show_icons=true&count_private=true&bg_color=20,FFA500,FF7F50,FF6347)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on different small projects under the "Secres" brand.
 - 🌱 I’m currently learning Android (Mobile)
-- 💬 Ask me about Java, AWT/Swing/JavaFX (Desktop), Vaadin Flow (Web)
+- 💬 Ask me about Java, AWT/Swing/JavaFX (Desktop), Vaadin Flow/Spring Boot (Web)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have no idea when/where I came up with the "Secres" brand, but I've used it ever since. It is not an acronym.
 
