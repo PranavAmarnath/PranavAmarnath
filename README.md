@@ -1,4 +1,4 @@
-### Hi there 👋. You may be able to tell from my username; I'm Pranav Amarnath.
+### Hi there 👋. I'm Pranav Amarnath.
 
 - 🔭 I’m currently working on projects under the "Secres" brand.
 - 🌱 I’m currently learning Android (Mobile) and Embedded.
